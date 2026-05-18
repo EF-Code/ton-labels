@@ -1,0 +1,20 @@
+{
+    "metadata": {
+        "label": "giftroad",
+        "category": "merchant",
+        "subcategory": "",
+        "website": "https://t.me/GiftRoadStars_bot",
+        "description": "",
+        "organization": "giftroad"
+    },
+    "addresses": [
+        {
+            "address": "EQBppCZDPo2m5Q2KFIXJMtWXbQnTbKujL-PoxVznig9b6AbU",
+            "source": "",
+            "comment": "Telegram Stars cashout address.",
+            "tags": [],
+            "submittedBy": "ef-code",
+            "submissionTimestamp": "2026-05-18T00:00:01Z"
+        }
+    ]
+}
